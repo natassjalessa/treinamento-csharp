@@ -16,7 +16,7 @@ namespace notaEscolar
             res = (freq / dada) * 100;
 
             lblMed.Text = ($"SUA MÉDIA: {med.ToString("0.00")}");
-            lblFreq.Text = ($"SUA FREQUENCIA: {freq.ToString("0.00")}");
+            lblFreq.Text = ($"SUA FREQUENCIA: {freq.ToString("0")}%");
 
             if (med >= 7 && res >= 75)
             {
