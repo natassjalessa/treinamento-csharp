@@ -1,0 +1,17 @@
+C:\treinamento_avanade\trianguloLados\trianguloLados\obj\Debug\net6.0-windows\trianguloLados.Form1.resources
+C:\treinamento_avanade\trianguloLados\trianguloLados\obj\Debug\net6.0-windows\trianguloLados.csproj.GenerateResource.cache
+C:\treinamento_avanade\trianguloLados\trianguloLados\obj\Debug\net6.0-windows\trianguloLados.GeneratedMSBuildEditorConfig.editorconfig
+C:\treinamento_avanade\trianguloLados\trianguloLados\obj\Debug\net6.0-windows\trianguloLados.AssemblyInfoInputs.cache
+C:\treinamento_avanade\trianguloLados\trianguloLados\obj\Debug\net6.0-windows\trianguloLados.AssemblyInfo.cs
+C:\treinamento_avanade\trianguloLados\trianguloLados\obj\Debug\net6.0-windows\trianguloLados.csproj.CoreCompileInputs.cache
+C:\treinamento_avanade\trianguloLados\trianguloLados\bin\Debug\net6.0-windows\trianguloLados.exe
+C:\treinamento_avanade\trianguloLados\trianguloLados\bin\Debug\net6.0-windows\trianguloLados.deps.json
+C:\treinamento_avanade\trianguloLados\trianguloLados\bin\Debug\net6.0-windows\trianguloLados.runtimeconfig.json
+C:\treinamento_avanade\trianguloLados\trianguloLados\bin\Debug\net6.0-windows\trianguloLados.dll
+C:\treinamento_avanade\trianguloLados\trianguloLados\bin\Debug\net6.0-windows\ref\trianguloLados.dll
+C:\treinamento_avanade\trianguloLados\trianguloLados\bin\Debug\net6.0-windows\trianguloLados.pdb
+C:\treinamento_avanade\trianguloLados\trianguloLados\obj\Debug\net6.0-windows\trianguloLados.dll
+C:\treinamento_avanade\trianguloLados\trianguloLados\obj\Debug\net6.0-windows\ref\trianguloLados.dll
+C:\treinamento_avanade\trianguloLados\trianguloLados\obj\Debug\net6.0-windows\trianguloLados.pdb
+C:\treinamento_avanade\trianguloLados\trianguloLados\obj\Debug\net6.0-windows\trianguloLados.genruntimeconfig.cache
+C:\treinamento_avanade\trianguloLados\trianguloLados\obj\Debug\net6.0-windows\trianguloLados.csproj.AssemblyReference.cache

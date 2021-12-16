@@ -1,0 +1,17 @@
+C:\treinamento_avanade\MediaAluno\MediaAluno\obj\Debug\net6.0-windows\MediaAluno.csproj.AssemblyReference.cache
+C:\treinamento_avanade\MediaAluno\MediaAluno\obj\Debug\net6.0-windows\MediaAluno.Form1.resources
+C:\treinamento_avanade\MediaAluno\MediaAluno\obj\Debug\net6.0-windows\MediaAluno.csproj.GenerateResource.cache
+C:\treinamento_avanade\MediaAluno\MediaAluno\obj\Debug\net6.0-windows\MediaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\treinamento_avanade\MediaAluno\MediaAluno\obj\Debug\net6.0-windows\MediaAluno.AssemblyInfoInputs.cache
+C:\treinamento_avanade\MediaAluno\MediaAluno\obj\Debug\net6.0-windows\MediaAluno.AssemblyInfo.cs
+C:\treinamento_avanade\MediaAluno\MediaAluno\obj\Debug\net6.0-windows\MediaAluno.csproj.CoreCompileInputs.cache
+C:\treinamento_avanade\MediaAluno\MediaAluno\bin\Debug\net6.0-windows\MediaAluno.exe
+C:\treinamento_avanade\MediaAluno\MediaAluno\bin\Debug\net6.0-windows\MediaAluno.deps.json
+C:\treinamento_avanade\MediaAluno\MediaAluno\bin\Debug\net6.0-windows\MediaAluno.runtimeconfig.json
+C:\treinamento_avanade\MediaAluno\MediaAluno\bin\Debug\net6.0-windows\MediaAluno.dll
+C:\treinamento_avanade\MediaAluno\MediaAluno\bin\Debug\net6.0-windows\ref\MediaAluno.dll
+C:\treinamento_avanade\MediaAluno\MediaAluno\bin\Debug\net6.0-windows\MediaAluno.pdb
+C:\treinamento_avanade\MediaAluno\MediaAluno\obj\Debug\net6.0-windows\MediaAluno.dll
+C:\treinamento_avanade\MediaAluno\MediaAluno\obj\Debug\net6.0-windows\ref\MediaAluno.dll
+C:\treinamento_avanade\MediaAluno\MediaAluno\obj\Debug\net6.0-windows\MediaAluno.pdb
+C:\treinamento_avanade\MediaAluno\MediaAluno\obj\Debug\net6.0-windows\MediaAluno.genruntimeconfig.cache
