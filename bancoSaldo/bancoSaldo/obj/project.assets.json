@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\treinamento_csharp\\notaEscolar\\notaEscolar\\notaEscolar.csproj",
-      "projectName": "notaEscolar",
-      "projectPath": "C:\\treinamento_csharp\\notaEscolar\\notaEscolar\\notaEscolar.csproj",
+      "projectUniqueName": "C:\\treinamento_avanade\\bancoSaldo\\bancoSaldo\\bancoSaldo.csproj",
+      "projectName": "bancoSaldo",
+      "projectPath": "C:\\treinamento_avanade\\bancoSaldo\\bancoSaldo\\bancoSaldo.csproj",
       "packagesPath": "C:\\Users\\n.de.lima.lessa\\.nuget\\packages\\",
-      "outputPath": "C:\\treinamento_csharp\\notaEscolar\\notaEscolar\\obj\\",
+      "outputPath": "C:\\treinamento_avanade\\bancoSaldo\\bancoSaldo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\n.de.lima.lessa\\AppData\\Roaming\\NuGet\\NuGet.Config",
