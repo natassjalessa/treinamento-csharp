@@ -1,0 +1,11 @@
+C:\treinamento_avanade\matrizSoma4x4\matrizSoma4x4\bin\Debug\matrizSoma4x4.exe.config
+C:\treinamento_avanade\matrizSoma4x4\matrizSoma4x4\bin\Debug\matrizSoma4x4.exe
+C:\treinamento_avanade\matrizSoma4x4\matrizSoma4x4\bin\Debug\matrizSoma4x4.pdb
+C:\treinamento_avanade\matrizSoma4x4\matrizSoma4x4\obj\Debug\matrizSoma4x4.csproj.AssemblyReference.cache
+C:\treinamento_avanade\matrizSoma4x4\matrizSoma4x4\obj\Debug\matrizSoma4x4.csproj.SuggestedBindingRedirects.cache
+C:\treinamento_avanade\matrizSoma4x4\matrizSoma4x4\obj\Debug\matrizSoma4x4.Form1.resources
+C:\treinamento_avanade\matrizSoma4x4\matrizSoma4x4\obj\Debug\matrizSoma4x4.Properties.Resources.resources
+C:\treinamento_avanade\matrizSoma4x4\matrizSoma4x4\obj\Debug\matrizSoma4x4.csproj.GenerateResource.cache
+C:\treinamento_avanade\matrizSoma4x4\matrizSoma4x4\obj\Debug\matrizSoma4x4.csproj.CoreCompileInputs.cache
+C:\treinamento_avanade\matrizSoma4x4\matrizSoma4x4\obj\Debug\matrizSoma4x4.exe
+C:\treinamento_avanade\matrizSoma4x4\matrizSoma4x4\obj\Debug\matrizSoma4x4.pdb
