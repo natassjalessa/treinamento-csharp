@@ -1,0 +1,11 @@
+C:\treinamento_avanade\operacoesComVetores\operacoesComVetores\bin\Debug\operacoesComVetores.exe.config
+C:\treinamento_avanade\operacoesComVetores\operacoesComVetores\bin\Debug\operacoesComVetores.exe
+C:\treinamento_avanade\operacoesComVetores\operacoesComVetores\bin\Debug\operacoesComVetores.pdb
+C:\treinamento_avanade\operacoesComVetores\operacoesComVetores\obj\Debug\operacoesComVetores.csproj.AssemblyReference.cache
+C:\treinamento_avanade\operacoesComVetores\operacoesComVetores\obj\Debug\operacoesComVetores.csproj.SuggestedBindingRedirects.cache
+C:\treinamento_avanade\operacoesComVetores\operacoesComVetores\obj\Debug\operacoesComVetores.Form1.resources
+C:\treinamento_avanade\operacoesComVetores\operacoesComVetores\obj\Debug\operacoesComVetores.Properties.Resources.resources
+C:\treinamento_avanade\operacoesComVetores\operacoesComVetores\obj\Debug\operacoesComVetores.csproj.GenerateResource.cache
+C:\treinamento_avanade\operacoesComVetores\operacoesComVetores\obj\Debug\operacoesComVetores.csproj.CoreCompileInputs.cache
+C:\treinamento_avanade\operacoesComVetores\operacoesComVetores\obj\Debug\operacoesComVetores.exe
+C:\treinamento_avanade\operacoesComVetores\operacoesComVetores\obj\Debug\operacoesComVetores.pdb
