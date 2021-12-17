@@ -1,0 +1,17 @@
+C:\treinamento_avanade\quantPares\quantPares\obj\Debug\net6.0-windows\quantPares.Form1.resources
+C:\treinamento_avanade\quantPares\quantPares\obj\Debug\net6.0-windows\quantPares.csproj.GenerateResource.cache
+C:\treinamento_avanade\quantPares\quantPares\obj\Debug\net6.0-windows\quantPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\treinamento_avanade\quantPares\quantPares\obj\Debug\net6.0-windows\quantPares.AssemblyInfoInputs.cache
+C:\treinamento_avanade\quantPares\quantPares\obj\Debug\net6.0-windows\quantPares.AssemblyInfo.cs
+C:\treinamento_avanade\quantPares\quantPares\obj\Debug\net6.0-windows\quantPares.csproj.CoreCompileInputs.cache
+C:\treinamento_avanade\quantPares\quantPares\bin\Debug\net6.0-windows\quantPares.exe
+C:\treinamento_avanade\quantPares\quantPares\bin\Debug\net6.0-windows\quantPares.deps.json
+C:\treinamento_avanade\quantPares\quantPares\bin\Debug\net6.0-windows\quantPares.runtimeconfig.json
+C:\treinamento_avanade\quantPares\quantPares\bin\Debug\net6.0-windows\quantPares.dll
+C:\treinamento_avanade\quantPares\quantPares\bin\Debug\net6.0-windows\ref\quantPares.dll
+C:\treinamento_avanade\quantPares\quantPares\bin\Debug\net6.0-windows\quantPares.pdb
+C:\treinamento_avanade\quantPares\quantPares\obj\Debug\net6.0-windows\quantPares.dll
+C:\treinamento_avanade\quantPares\quantPares\obj\Debug\net6.0-windows\ref\quantPares.dll
+C:\treinamento_avanade\quantPares\quantPares\obj\Debug\net6.0-windows\quantPares.pdb
+C:\treinamento_avanade\quantPares\quantPares\obj\Debug\net6.0-windows\quantPares.genruntimeconfig.cache
+C:\treinamento_avanade\quantPares\quantPares\obj\Debug\net6.0-windows\quantPares.csproj.AssemblyReference.cache

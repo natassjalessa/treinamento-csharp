@@ -1,0 +1,16 @@
+C:\treinamento_avanade\contaBancaria\contaBancaria\obj\Debug\net6.0-windows\contaBancaria.Form1.resources
+C:\treinamento_avanade\contaBancaria\contaBancaria\obj\Debug\net6.0-windows\contaBancaria.csproj.GenerateResource.cache
+C:\treinamento_avanade\contaBancaria\contaBancaria\obj\Debug\net6.0-windows\contaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\treinamento_avanade\contaBancaria\contaBancaria\obj\Debug\net6.0-windows\contaBancaria.AssemblyInfoInputs.cache
+C:\treinamento_avanade\contaBancaria\contaBancaria\obj\Debug\net6.0-windows\contaBancaria.AssemblyInfo.cs
+C:\treinamento_avanade\contaBancaria\contaBancaria\obj\Debug\net6.0-windows\contaBancaria.csproj.CoreCompileInputs.cache
+C:\treinamento_avanade\contaBancaria\contaBancaria\bin\Debug\net6.0-windows\contaBancaria.exe
+C:\treinamento_avanade\contaBancaria\contaBancaria\bin\Debug\net6.0-windows\contaBancaria.deps.json
+C:\treinamento_avanade\contaBancaria\contaBancaria\bin\Debug\net6.0-windows\contaBancaria.runtimeconfig.json
+C:\treinamento_avanade\contaBancaria\contaBancaria\bin\Debug\net6.0-windows\contaBancaria.dll
+C:\treinamento_avanade\contaBancaria\contaBancaria\bin\Debug\net6.0-windows\ref\contaBancaria.dll
+C:\treinamento_avanade\contaBancaria\contaBancaria\bin\Debug\net6.0-windows\contaBancaria.pdb
+C:\treinamento_avanade\contaBancaria\contaBancaria\obj\Debug\net6.0-windows\contaBancaria.dll
+C:\treinamento_avanade\contaBancaria\contaBancaria\obj\Debug\net6.0-windows\ref\contaBancaria.dll
+C:\treinamento_avanade\contaBancaria\contaBancaria\obj\Debug\net6.0-windows\contaBancaria.pdb
+C:\treinamento_avanade\contaBancaria\contaBancaria\obj\Debug\net6.0-windows\contaBancaria.genruntimeconfig.cache

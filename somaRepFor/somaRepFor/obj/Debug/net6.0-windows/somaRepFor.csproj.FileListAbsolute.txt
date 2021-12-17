@@ -1,0 +1,16 @@
+C:\treinamento_avanade\somaRepFor\somaRepFor\bin\Debug\net6.0-windows\somaRepFor.exe
+C:\treinamento_avanade\somaRepFor\somaRepFor\bin\Debug\net6.0-windows\somaRepFor.deps.json
+C:\treinamento_avanade\somaRepFor\somaRepFor\bin\Debug\net6.0-windows\somaRepFor.runtimeconfig.json
+C:\treinamento_avanade\somaRepFor\somaRepFor\bin\Debug\net6.0-windows\somaRepFor.dll
+C:\treinamento_avanade\somaRepFor\somaRepFor\bin\Debug\net6.0-windows\ref\somaRepFor.dll
+C:\treinamento_avanade\somaRepFor\somaRepFor\bin\Debug\net6.0-windows\somaRepFor.pdb
+C:\treinamento_avanade\somaRepFor\somaRepFor\obj\Debug\net6.0-windows\somaRepFor.Form1.resources
+C:\treinamento_avanade\somaRepFor\somaRepFor\obj\Debug\net6.0-windows\somaRepFor.csproj.GenerateResource.cache
+C:\treinamento_avanade\somaRepFor\somaRepFor\obj\Debug\net6.0-windows\somaRepFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\treinamento_avanade\somaRepFor\somaRepFor\obj\Debug\net6.0-windows\somaRepFor.AssemblyInfoInputs.cache
+C:\treinamento_avanade\somaRepFor\somaRepFor\obj\Debug\net6.0-windows\somaRepFor.AssemblyInfo.cs
+C:\treinamento_avanade\somaRepFor\somaRepFor\obj\Debug\net6.0-windows\somaRepFor.csproj.CoreCompileInputs.cache
+C:\treinamento_avanade\somaRepFor\somaRepFor\obj\Debug\net6.0-windows\somaRepFor.dll
+C:\treinamento_avanade\somaRepFor\somaRepFor\obj\Debug\net6.0-windows\ref\somaRepFor.dll
+C:\treinamento_avanade\somaRepFor\somaRepFor\obj\Debug\net6.0-windows\somaRepFor.pdb
+C:\treinamento_avanade\somaRepFor\somaRepFor\obj\Debug\net6.0-windows\somaRepFor.genruntimeconfig.cache
