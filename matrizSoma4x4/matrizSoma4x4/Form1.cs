@@ -26,9 +26,9 @@ namespace matrizSoma4x4
             int media = 0;
             int mult0 = 0, mult1 = 0, mult2 = 0, mult3 = 0; 
 
-            for (linha = 0; linha < 4; linha++)
+            for (linha = 0; linha < val.GetLength(0); linha++)
             {
-                for (coluna = 0; coluna < 4; coluna++)
+                for (coluna = 0; coluna < val.GetLength(1); coluna++)
                 {
                     val[linha, coluna] = (int.Parse(Interaction.InputBox($"Digite o elemento da posição{linha.ToString()},{coluna.ToString()} da matriz")));
 
