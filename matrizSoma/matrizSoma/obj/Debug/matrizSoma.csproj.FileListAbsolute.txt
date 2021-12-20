@@ -1,0 +1,11 @@
+C:\treinamento_avanade\matrizSoma\matrizSoma\bin\Debug\matrizSoma.exe.config
+C:\treinamento_avanade\matrizSoma\matrizSoma\bin\Debug\matrizSoma.exe
+C:\treinamento_avanade\matrizSoma\matrizSoma\bin\Debug\matrizSoma.pdb
+C:\treinamento_avanade\matrizSoma\matrizSoma\obj\Debug\matrizSoma.csproj.AssemblyReference.cache
+C:\treinamento_avanade\matrizSoma\matrizSoma\obj\Debug\matrizSoma.csproj.SuggestedBindingRedirects.cache
+C:\treinamento_avanade\matrizSoma\matrizSoma\obj\Debug\matrizSoma.Form1.resources
+C:\treinamento_avanade\matrizSoma\matrizSoma\obj\Debug\matrizSoma.Properties.Resources.resources
+C:\treinamento_avanade\matrizSoma\matrizSoma\obj\Debug\matrizSoma.csproj.GenerateResource.cache
+C:\treinamento_avanade\matrizSoma\matrizSoma\obj\Debug\matrizSoma.csproj.CoreCompileInputs.cache
+C:\treinamento_avanade\matrizSoma\matrizSoma\obj\Debug\matrizSoma.exe
+C:\treinamento_avanade\matrizSoma\matrizSoma\obj\Debug\matrizSoma.pdb
